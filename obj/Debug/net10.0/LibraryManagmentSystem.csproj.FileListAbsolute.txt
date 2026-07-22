@@ -1,0 +1,14 @@
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/LibraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/LibraryManagmentSystem.AssemblyInfoInputs.cache
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/LibraryManagmentSystem.AssemblyInfo.cs
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/bin/Debug/net10.0/LibraryManagmentSystem
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/bin/Debug/net10.0/LibraryManagmentSystem.deps.json
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/bin/Debug/net10.0/LibraryManagmentSystem.runtimeconfig.json
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/bin/Debug/net10.0/LibraryManagmentSystem.dll
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/bin/Debug/net10.0/LibraryManagmentSystem.pdb
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/LibraryManagmentSystem.dll
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/refint/LibraryManagmentSystem.dll
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/LibraryManagmentSystem.pdb
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/LibraryManagmentSystem.genruntimeconfig.cache
+/Users/partharora/Documents/development/DotNetLearning/LibraryManagmentSystem/obj/Debug/net10.0/ref/LibraryManagmentSystem.dll
