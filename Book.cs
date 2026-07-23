@@ -18,3 +18,5 @@ public class Book{
         Console.WriteLine($"Book_ID: {BookId}, Title: {Title}, Author: {Author}, Total copies: {TotalCopies}, Available copies: {AvailableCopies}");
     }
 }
+
+public class zyz{}
